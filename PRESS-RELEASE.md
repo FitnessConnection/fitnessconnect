@@ -17,28 +17,29 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Fitness Connection, __________
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath e title.
+  > A platform that easily helps personal trainers and fitness enthusiasts connect and work together toward their goals.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make is paragraph good.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Currently, the process of finding a personal trainer isn't personal. The information needed to match a personal trainer and a 
+  > perspective client is inefficient and convoluted. We aim to solve that.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Fitness connection allows personal trainers to set up a profile with their revelent info, and users to match the trainers that fit their needs.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "I'm fit, and I use it :)" - Albrey Brown, Fitness Professional
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Just download our app, enter your fitness goals, and become the work-out fiend you were meant to be!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "I started using Fitness Connect around 3 weeks ago and the results are incomparable. My body fat ratio went from 24% to 20% in no time!" - Allie May, Mobile Alabama
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Go to fitnessconnect.azurewebsites.net and start your journey today!
